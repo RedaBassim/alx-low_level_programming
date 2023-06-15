@@ -2,8 +2,7 @@
 /**
  * main - Entry point of the program
  *
- * Description: This program prints a message indicating that proper grammar
- *              produces a piece of art.
+ * Description: program that prints exactly with proper grammar, but the outcome is a piece of art,, followed * by a new line.
  *
  * Return: 0 on successful execution
  */
