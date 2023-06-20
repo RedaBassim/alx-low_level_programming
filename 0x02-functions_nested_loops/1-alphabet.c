@@ -1,4 +1,4 @@
-nclude "main.h"
+include"main.h"
 
 /**
  * print_alphabet - utilizes on th _putchar
@@ -6,7 +6,6 @@ nclude "main.h"
  */
 
 void print_alphabet(void);
-
 {
 	int ch;
 
