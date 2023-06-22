@@ -9,9 +9,9 @@
  */
 int main(void)
 {
-	unsigned long long int num = 612852475143;
-	unsigned long long int factor = 2;
-	unsigned long long int largestFactor = 0;
+	unsigned long num = 612852475143;
+	unsigned long factor = 2;
+	unsigned long largestFactor = 0;
 
 	while (num != 1)
 	{
@@ -29,7 +29,7 @@ int main(void)
 		}
 	}
 
-	printf("%llu\n", largestFactor);
+	printf("%lu\n", largestFactor);
 
 	return (0);
 }
